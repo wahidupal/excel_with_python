@@ -1,2 +1,2 @@
-# excel_with_python
-excel using dash
+# dashboard_with_python
+Dashboard using dash
